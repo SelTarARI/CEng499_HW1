@@ -42,13 +42,6 @@ Each part includes a detailed PDF report explaining:
 - Forward/backward pass logic
 - Experimental results and evaluation
 
-## 👨‍💻 Author
 
-**Selim Tarık ARI**  
-BSc Computer Engineering – Middle East Technical University  
-Email: [seltarari@gmail.com](mailto:seltarari@gmail.com)  
-LinkedIn: [linkedin.com/in/selim-tarik-ari](https://www.linkedin.com/in/selim-tarik-ari)  
-GitHub: [SelTarARI](https://github.com/SelTarARI)
-
----
-
+## 👤 Author
+Selim Tarık Arı – [LinkedIn](https://linkedin.com/in/selim-tarik-ari) | [GitHub](https://github.com/SelTarARI)
